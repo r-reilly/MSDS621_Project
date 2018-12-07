@@ -13,3 +13,5 @@ Contributors:
 * [Rebecca Reilly](https://github.com/r-reilly)
 * [Katja Wittfoth](https://github.com/katjawittfoth)
 * [Fiorella Tenorio](https://github.com/fioreten)
+
+<img src="https://github.com/r-reilly/MSDS621_Project/blob/master/Bitmojis.JPG">
